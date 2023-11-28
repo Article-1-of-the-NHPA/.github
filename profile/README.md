@@ -18,7 +18,7 @@
 | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
 | <img width="160px" src="https://avatars.githubusercontent.com/u/33623123?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/99649795?s=96&v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/71217787?s=96&v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/126747506?s=96&v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/102959479?s=96&v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/144659958?s=96&v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/119511421?s=96&v=4"/> |
 |                    [@llbllhllk](https://github.com/llbllhllk)                    |                         [@gy8879](https://github.com/gy8879)                          |                     [@oponeuser7](https://github.com/oponeuser7)                      |                     [@sooooooing](https://github.com/sooooooing)                      |                    [@PangHee1027](https://github.com/PangHee1027)                     |                     [@BrothersJJ](https://github.com/BrothersJJ)                      |                        [@jeb0730](https://github.com/jeb0730)                         |
-|                                    FE (팀원)                                     |                                       FE (팀원)                                       |                                       BE (팀원)                                       |                                       FE (팀장)                                       |                                       FE (팀원)                                       |                                       FE (팀원)                                       |                                       FE (팀원)                                       |
+|                                    FE (팀원)                                     |                                       FE (팀원)                                       |                                       BE (팀원)                                       |                                       FE (팀원)                                       |                                       FE (팀장)                                       |                                       FE (팀원)                                       |                                       FE (팀원)                                       |
 
 <br />
 
@@ -53,7 +53,6 @@
 <img src="https://img.shields.io/badge/figma-0769AD?style=for-the-badge&logo=figma&logoColor=white">
 
 - UI/UX 디자인을 위한 도구로서, 직관적이고 협업이 용이한 디자인 프로세스를 지원합니다.
-  Flutter
 
 <img src="https://img.shields.io/badge/flutter-F80000?style=for-the-badge&logo=flutter&logoColor=white">
 
